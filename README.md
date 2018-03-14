@@ -2,7 +2,7 @@
 
 [1]: https://img.shields.io/travis/seankhliao/ifttt-notify.svg?style=flat-square
 [2]: https://travis-ci.org/seankhliao/ifttt-notify
-[3]: https://goreportcard.com/badge/github.com/seankhliao/ifttt-notify
+[3]: https://goreportcard.com/badge/github.com/seankhliao/ifttt-notify?style=flat-square
 [4]: https://goreportcard.com/report/github.com/seankhliao/ifttt-notify
 
 simple, flexible command line tool to trigger ifttt maker events
