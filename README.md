@@ -3,7 +3,7 @@
 [2]: https://travis-ci.org/seankhliao/ifttt-notify
 [3]: https://goreportcard.com/badge/github.com/seankhliao/ifttt-notify?style=flat-square
 [4]: https://goreportcard.com/report/github.com/seankhliao/ifttt-notify
-[5]: https://img.shields.io/badge/License-MIT-blue.svg
+[5]: https://img.shields.io/badge/License-MIT-blue.svg?longCache=true&style=flat-square
 [6]: LICENSE
 
 simple, flexible command line tool to trigger ifttt maker events
